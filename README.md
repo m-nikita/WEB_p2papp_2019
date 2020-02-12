@@ -5,4 +5,4 @@ exchange media content without going through a centralized server.
 
 Only text communication works here in local connection.
 
-<img src="https://raw.githubusercontent.com/m-nikita/ReactNative_P2PApp/master/screen.png" height="25%" width="25%">
+<img src="https://raw.githubusercontent.com/m-nikita/WEB_p2papp_2019/master/screen.png" height="25%" width="25%">
